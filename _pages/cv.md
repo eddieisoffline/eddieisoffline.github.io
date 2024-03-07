@@ -10,55 +10,78 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=====
+  * Centro de Bachillerato Tecnologico Industrial y de Servicios no. 212 Tetla, Tlaxcala
+    * Programming - 2019
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  
+Experience 
+=====
+* Project - Diabetes in Pima Women
+  * Data Analyst Sep 2023 – Oct 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+1. Conducted data analysis on Pima people's diabetes-related health data, extracted from Kaggle and cleaned using
+SQL queries.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2. Calculated probabilities of developing diabetes and health complications based on factors like BMI, pregnancy
+history, and Diabetes Pedigree Function.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+3. Utilized Bayesian hypothesis for probability calculations and SQL Views for data organization.
+
+4. Analyzed 768 individuals, identifying 34.89% with diabetes, with notable correlations between high BMI and
+diabetes, and high BMI and health complications.
+
+5. Recommended expanding sample size for enhanced precision, developing prevention strategies based on risk
+factors, and providing access to health resources and support for diabetes management.
+
+6. Highlighted limitations including the need for additional data and corrections to ensure accurate results.
+
+
+* Project - Retail Store
+  * Data Analyst Aug 2023 – Sep 2023
+
+1. Analyzed sales data from an online retail store operating internationally, focusing on customer behavior and
+purchasing trends.
+
+2. Extracted data from Kaggle, transformed XLS file to CSV format, and loaded it into Google Cloud's BigQuery for
+analysis.
+
+3. Identified top revenue-generating countries, with the United Kingdom leading at $9,025,222, followed by the
+Netherlands, Ireland, Germany, and France.
+
+4.Discovered that Thursdays had the highest revenue accumulation ($2,203,161), while Sundays had the lowest
+($813,828).
+
+5.Highlighted November and October as the most profitable months, with February and April being the least lucrative.
+
+
+Skills & Interests
+=====
+
+* Technical:
+  * SQL.
+
+  * Excel.
+
+  * Tableau.
+
+  * Python.
+
+  * Git.
+
+  * AWS.
+
+* Language:
+
+  * English - Proficient.
+
+  * Spanish - Native.
+
+* Interests:
+  * Music Production.
+
+  * Poetry.
+
+  * Photography.
+
+  * Films.
