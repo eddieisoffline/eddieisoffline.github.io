@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[DOWNLOAD](files/Data_Analyst_Eduardo_Anica_Gonzalez.pdf)
 
 Education
 =====
