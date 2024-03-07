@@ -13,8 +13,8 @@ Beyond my interest in data, I'm into the music production in my free time.
 
 ### I hope that you enjoy reading this portfolio:
 
-[Portfolio](https://eduardoan_portfolio.github.io/portfolio/) 
+[Portfolio](https://eddieisoffline.github.io/portfolio/) 
 
 ### My resume/CV here:
 
-[PDF](https://drive.google.com/file/d/1u1rsztyfdrPk4UaHwxtndhx_mc3fIagO/view?usp=sharing)
+[PDF](files/Data_Analyst_Eduardo_Anica_Gonzalez.pdf)
