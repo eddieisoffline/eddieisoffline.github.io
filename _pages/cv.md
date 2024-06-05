@@ -11,74 +11,79 @@ redirect_from:
 [DOWNLOAD](../files/Data_Analyst_Eduardo_Anica_Gonzalez.pdf)
 
 Education
-=====
-  * Centro de Bachillerato Tecnologico Industrial y de Servicios no. 212 Tetla, Tlaxcala
-    * Programming - 2019
-
+====
+* Universidad del Valle de México
   
-Experience 
-=====
-* Project - Diabetes in Pima Women
-  * Data Analyst Sep 2023 – Oct 2024
+   Bachelor's Degree in Data Science Engineering 
+ 
+   Mexico City, MX
 
-1. Conducted data analysis on Pima people's diabetes-related health data, extracted from Kaggle and cleaned using
-SQL queries.
+   Expected 2027
 
-2. Calculated probabilities of developing diabetes and health complications based on factors like BMI, pregnancy
-history, and Diabetes Pedigree Function.
+* Centro de Bachillerato Tecnologico Industrial y de Servicios no. 212
 
-3. Utilized Bayesian hypothesis for probability calculations and SQL Views for data organization.
-
-4. Analyzed 768 individuals, identifying 34.89% with diabetes, with notable correlations between high BMI and
-diabetes, and high BMI and health complications.
-
-5. Recommended expanding sample size for enhanced precision, developing prevention strategies based on risk
-factors, and providing access to health resources and support for diabetes management.
-
-6. Highlighted limitations including the need for additional data and corrections to ensure accurate results.
+  High School Diploma In Programming July 2019
+   
+   Tetla, Tlaxcala, MX
 
 
-* Project - Retail Store
-  * Data Analyst Aug 2023 – Sep 2023
+Technical Skills 
+========
+* Programming: Python, T-SQL, Git.
+  
+* Data Visualization: Tableau, Power BI.
 
-1. Analyzed sales data from an online retail store operating internationally, focusing on customer behavior and
-purchasing trends.
+* Cloud Computing: AWS.
 
-2. Extracted data from Kaggle, transformed XLS file to CSV format, and loaded it into Google Cloud's BigQuery for
-analysis.
+* Spreadsheets: Excel, Google Spreadsheets.
 
-3. Identified top revenue-generating countries, with the United Kingdom leading at $9,025,222, followed by the
-Netherlands, Ireland, Germany, and France.
+Projects
+==
+* Diabetes in Pima women Project
+  
+This project analyzes through different elements the probabilities of developing diabetes in Pima
+women and the possible health complications they could develop, through a Bayesian hypothesis.
 
-4.Discovered that Thursdays had the highest revenue accumulation ($2,203,161), while Sundays had the lowest
-($813,828).
+* Online Retail Sales Store Data Analysis
 
-5.Highlighted November and October as the most profitable months, with February and April being the least lucrative.
+This project consists of a detailed analysis of sales data from an online retail store for the years 2010
+to 2011. It highlights revenue by country, shopping habits by day and time, most popular products and
+largest orders.
+
+* Attendance at the National Cinematheque of Mexico during 2019 - 2023
+  
+This project analyzes in detail the attendance preferences at the Cineteca Nacional de México from
+2019 to March 2023, including attendance data during the Covid-19 global pandemic.
 
 
-Skills & Interests
-=====
+Experience
+======
 
-* Technical:
-  * SQL.
+Mentorness Remote
+==
+Data Analyst - Intern March 2024 - June 2024
+=
+  
+● Cleaned data using Python, developing a function to remove outliers based on the interquartile
+range (IQR) for applicable columns.
 
-  * Excel.
+● Performed ETL (Extract, Transform, Load) processes on data using Python.
 
-  * Tableau.
+● Formatted and aggregated data to perform calculations.
 
-  * Python.
+● Created dashboards and reports to visualize data insights using Tableau.
 
-  * Git.
+● Conducted queries and analysis using SQL, utilizing views to manage data.
 
-  * AWS.
 
-* Language:
-
+Language
+==
   * English - Proficient.
 
   * Spanish - Native.
 
-* Interests:
+ Interests:
+ ==
   * Music Production.
 
   * Poetry.
